@@ -1,3 +1,4 @@
+package comapny;
 public class Employee {
     // フィールド
     String name;
